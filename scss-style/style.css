@@ -47,8 +47,7 @@ body {
   margin-top: 38px;
   margin-right: 40px;
 }
-
-.calc__screen-number {
+.calc__screen .calc__screen-number {
   font-family: "Moderustic", sans-serif;
   font-size: 50px;
   line-height: 44px;
@@ -67,8 +66,7 @@ body {
   justify-content: space-between;
   color: black;
 }
-
-.container__centr {
+.containerr .container__centr {
   display: grid;
   grid-template-areas: "btn_ac btn_plus-minus btn_percent" "btn_seven btn_eight btn_nine" "btn_four btn_five btn_six" "btn_one btn_two btn_three" "btn_zero btn_zero btn_dot";
   min-width: 314px;
@@ -77,8 +75,7 @@ body {
   margin-left: 42px;
   margin-bottom: 10px;
 }
-
-.container__right {
+.containerr .container__right {
   min-width: 132px;
   height: 530px;
   border-radius: 38px;
