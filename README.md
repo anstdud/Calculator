@@ -9,9 +9,9 @@ Calculator — это простое веб-приложение для выпо
 - Возможность сброса введенных данных
 
 ## Технологии
-- HTML
-- SCSS
-- JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## Установка
 1. Склонируйте репозиторий:
