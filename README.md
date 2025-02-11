@@ -1,24 +1,23 @@
 # Calculator🆗
 
-## Описание
 Calculator — это простое веб-приложение для выполнения математических операций. Оно позволяет пользователям выполнять базовые вычисления, включая сложение, вычитание, умножение и деление.
 
-## Функциональность
+## 🌟 Функциональность
 - Поддержка базовых арифметических операций
 - Интуитивно понятный интерфейс
 - Возможность сброса введенных данных
 
-## Технологии
+## 🛠 Технологии
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## Установка
+## 🚀 Установка
 1. Склонируйте репозиторий:
    ```bash
    git clone https://github.com/anstdud/Calculator.git
 
-## Планы по развитию проекта
+## 💡 Планы по развитию проекта
 
 1. **Добавление новых функций:**
    - Реализация вычислений с плавающей точкой.
